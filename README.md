@@ -1,6 +1,6 @@
 # aka-Azka
 
-### A **responsive** agency website.
+### A responsive agency website.
 
 https://mohamedfiky.github.io/leon/
 
